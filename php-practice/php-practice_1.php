@@ -104,6 +104,7 @@ function distinguishNum($num){
 distinguishNum(11);
 distinguishNum(24);
 
+
 // Q13 関数とswitch文
 function evaluateGrande($grade){
     switch($grade){
